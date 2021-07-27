@@ -1,10 +1,26 @@
+[![GitHub followers](https://img.shields.io/github/followers/EfsanNart?style=social)](https://github.com/EfsanNart?tab=followers)
+![GitHub stars](https://img.shields.io/github/stars/EfsanNart?style=social)
+[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=EfsanNart.visitor-badge)](https://GitHub.com/EfsanNart/StrapDown.js/stargazers/)
+
+
+
 ### Hi there 👋
 
 
- I'm Efşan
+ :handshake:I'm Efşan
+ 
+:fax: Communication
+ 
 
  <a href="https://www.linkedin.com/in/ef%C5%9Fan-nart-7441991b7" target="_blank" rel="nofollow"><img alt="Efsan's Linkedin" src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:efsannart@gmail.com" target="_blank" rel="nofollow"><img alt="Efsan's Mail Address" src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+
+
+![Efsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=EfsanNart&show_icons=true&theme=default)
+ 
+ 
+ ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EfsanNart&layout=compact&theme=light)
 
 
 
