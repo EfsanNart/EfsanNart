@@ -1,6 +1,6 @@
 [![GitHub followers](https://img.shields.io/github/followers/EfsanNart?style=social)](https://github.com/EfsanNart?tab=followers)
 ![GitHub stars](https://img.shields.io/github/stars/EfsanNart?style=social)
-[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=EfsanNart.visitor-badge)](https://GitHub.com/EfsanNart/StrapDown.js/stargazers/)
+
 
 
 
