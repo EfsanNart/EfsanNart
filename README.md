@@ -12,7 +12,7 @@
 :fax: Communication
  
 
- <a href="https://www.linkedin.com/in/ef%C5%9Fan-nart-7441991b7" target="_blank" rel="nofollow"><img alt="Efsan's Linkedin" src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+ <a href="[https://www.linkedin.com/in/ef%C5%9Fan-nart-7441991b7](https://www.linkedin.com/in/efsannart/)" target="_blank" rel="nofollow"><img alt="Efsan's Linkedin" src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:efsannart@gmail.com" target="_blank" rel="nofollow"><img alt="Efsan's Mail Address" src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 
