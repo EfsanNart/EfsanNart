@@ -25,10 +25,15 @@ Welcome to my GitHub profile! I'm a **Full-Stack Developer** specializing in **.
 ---
 
 
-### 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
+
+### 📊 GitHub Stats:  
+#### "Junior Developer Mode: Activated 🚀"  
+![Efşan's GitHub stats](https://github-readme-stats.vercel.app/api?username=EfsanNart&show_icons=true&theme=radical)  
+*"One commit at a time... and sometimes a revert commit too!"*  
+
+#### "Languages I Speak (Mostly C# 😅)"  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EfsanNart&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
+
 
 ---
 
