@@ -42,5 +42,5 @@ Welcome to my GitHub profile! I'm a **Full-Stack Developer** specializing in **.
 ### 🎉 Fun Fact  
 💡 "There are 10 types of people in the world: those who understand binary and those who don’t." 😄
 
-![coding-gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjJoYmR5Y2hidmRldWlpZTlxaXE1eW04bTM2ODIxaGQ4cXJwOXhyMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YcXkgqd7wfSrbc82Ya/giphy.gif)
+![coding-gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDM3MGk1NGozZmV4Y2oydmlrd29pc2RpN2E2cGc3MHQwbDF0bzl3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ule4vhcY1xEKQ/giphy.gif)
 
