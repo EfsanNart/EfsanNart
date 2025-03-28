@@ -1,4 +1,5 @@
 ### Hi there! I'm Efşan 👋
+![coding-gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2ZjMjZnZDk3cnp3MWIxNGg4bXZuZjVjdmZ0Zmp6NmltbGF1MGVycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C4NdKtRaQE9m8/giphy.gif)
 
 Welcome to my GitHub profile! I'm a **Full-Stack Developer** specializing in **.NET Core, C#, JavaScript**, and modern web technologies. Passionate about **backend development**, database management, and building scalable applications.
 
@@ -23,6 +24,7 @@ Welcome to my GitHub profile! I'm a **Full-Stack Developer** specializing in **.
 
 ---
 
+
 ### 📈 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
@@ -39,3 +41,6 @@ Welcome to my GitHub profile! I'm a **Full-Stack Developer** specializing in **.
 
 ### 🎉 Fun Fact  
 💡 "There are 10 types of people in the world: those who understand binary and those who don’t." 😄
+
+![coding-gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjJoYmR5Y2hidmRldWlpZTlxaXE1eW04bTM2ODIxaGQ4cXJwOXhyMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YcXkgqd7wfSrbc82Ya/giphy.gif)
+
